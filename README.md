@@ -1,2 +1,2 @@
-# selection of a random movie by genre
-# link: t.me/TestByVladlenaBot
+# Телеграм бот, который по жанру рекомендует случайный фильм
+## ссылка: t.me/TestByVladlenaBot
